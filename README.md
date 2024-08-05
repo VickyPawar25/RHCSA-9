@@ -5,7 +5,6 @@
 
 <b>RHCSA-I</b>
 -------------------------------------------------------
-0. Practice Lab Setup with Vmware Workstation
 1. Get Started with Red Hat Enterprise Linux
 2. Access the Command Line
 3. Manage Files from the Command Line
